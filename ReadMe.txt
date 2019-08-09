@@ -1,0 +1,1 @@
+Imaginary Headphones Product Landing Page using HTML5, JavaScript, modern css (grid, flex and media queries) and a simple lightbox gallery. 
